@@ -1,8 +1,8 @@
-# DPE iRoT Profile
+# OCP Profile for IETF Entity Attestation Token
 
 ## Specification Website
 
-A version of the specification tracking the latest content in the `main` branch can be found at https://opencomputeproject.github.io/Security/dpe-irot-profile/HEAD/.
+A version of the specification tracking the latest content in the `main` branch can be found at https://opencomputeproject.github.io/Security/ietf-eat-profile/HEAD/.
 
 ## Specification source
 
